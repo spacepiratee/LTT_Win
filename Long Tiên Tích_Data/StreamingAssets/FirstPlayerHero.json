@@ -1,0 +1,19 @@
+{
+    "cardType": 2,
+    "trait": [
+        0,
+        3
+    ],
+    "element": 1,
+    "name": "SongHaiNgu",
+    "id": 0,
+    "parentName": "",
+    "isPlayer": false,
+    "userID": "",
+    "power": 0,
+    "spellType": 0,
+    "spellSkill": "",
+    "mainSkill": "Destroy an non-combat opponent hero",
+    "subSkill": "Clease all continous effects created by opponent heroes' skills",
+    "cardDebuffList": []
+}
